@@ -16,12 +16,12 @@
 <hr>
   <br>
   
-- 🔭 I’m currently working Full time on React as a Frontend Developer  
-- 🌱 I’m currently learning Node.js to become Full Stack 
+- 👨 I’m currently working Full time on React as a Frontend Developer  
+- 🌱 I’m currently getting into Node.js
+- 👨‍💻 Learning new Tech. everyday. 
 - 💬  Open for freelancing
 <br>
 <hr>
 <br>
 
-[![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan2798)](https://github.com/milan2798/github-readme-stats&show_icons=true)
-
+![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan2798&show_icons=true)
