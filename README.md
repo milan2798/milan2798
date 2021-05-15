@@ -1,4 +1,4 @@
-### 👋 Hello World I'm Milan #earth
+### 👋 Hello World , I'm Milan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">
 
 <a target="_blank" href="www.linkedin.com/in/milan-zadfiya/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,7 +20,8 @@
 - 🌱 I’m currently learning Node.js to become Full Stack 
 - 💬  Open for freelancing
 <br>
-
+<hr>
+<br>
 
 [![Milan's GitHub stats](https://github-readme-stats.vercel.app/api?username=milan2798)](https://github.com/milan2798/github-readme-stats&show_icons=true)
 
