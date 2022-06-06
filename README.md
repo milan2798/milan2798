@@ -1,4 +1,4 @@
-### 👋 Hello World , I'm Milan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="10px" style="max-width:50%;">
+### 👋 Hello World , I'm Milan 
 
 <a target="_blank" href="www.linkedin.com/in/milan-zadfiya/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
