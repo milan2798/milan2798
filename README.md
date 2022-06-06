@@ -1,4 +1,4 @@
-### 👋 Hello World , I'm Milan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="24px" style="max-width:100%;">
+### 👋 Hello World , I'm Milan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="10px" style="max-width:50%;">
 
 <a target="_blank" href="www.linkedin.com/in/milan-zadfiya/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,8 +16,8 @@
 <hr>
   <br>
   
-- 👨 I’m currently working Full time on React as a Frontend Developer  
-- 🌱 I’m currently getting into Node.js
+- 👨 I’m currently working Full time as a Full Stack Developer(MERN)  
+- 🌱 I’m currently getting into web3
 - 👨‍💻 Learning new Tech. everyday. 
 - 💬  Open for freelancing
 <br>
